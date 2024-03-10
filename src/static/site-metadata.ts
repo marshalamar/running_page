@@ -12,7 +12,7 @@ interface ISiteMetadataResult {
 const data: ISiteMetadataResult = {
   siteTitle: 'iimin486 running',
   siteUrl: 'https://iimin486-running-page.vercel.app',
-  logo: 'https://imgur.com/a/rdLogJg',
+  logo: 'https://imgur.com/iHOUAn5',
   description: 'Personal site and blog',
   navLinks: [
     {
